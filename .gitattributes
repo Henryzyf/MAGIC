@@ -3,3 +3,4 @@ simulate_irregular.mp4 filter=lfs diff=lfs merge=lfs -text
 simulate_regular.mp4 filter=lfs diff=lfs merge=lfs -text
 xkyy_212467_3views.mp4 filter=lfs diff=lfs merge=lfs -text
 simulated_regular.mp4 filter=lfs diff=lfs merge=lfs -text
+simulated_irregular.mp4 filter=lfs diff=lfs merge=lfs -text
