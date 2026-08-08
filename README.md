@@ -31,3 +31,33 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 <p><b>Figure 3. Reconstruction of the 38th frame (mid-exhalation) in the simulated irregular respiration. Images of axial, coronal and sagittal views are shown in the 1st, 3rd and 5th rows, respectively, with a display window of [-1000, 500] HU. The absolute residuals are shown in the 2nd, 4th and 6th rows, respectively, with a display window of [0, 500] HU. The artifact of aDiner is indicated by a red arrow in (e1). The ground truth is repeated in columns (f) and (l) to facilitate visual comparison.
 </b></p>
 </div>
+
+<div align="center">
+<img src="./cirs_curve_1.png" width="100%">
+<p><b>Figure 4. Ball centroid SI (Superior-Inferior) motion curves (Part 1). (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
+</b></p>
+</div>
+
+<div align="center">
+<img src="./cirs_curve_2.png" width="100%">
+<p><b>Figure 4. Ball centroid SI (Superior-Inferior) motion curves (Part 2). (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
+</b></p>
+</div>
+
+<div align="center">
+<img src="./cirs_results.png" width="100%">
+<p><b>Figure 5. Reconstructed frame in the irregular respiration of the CIRS phantom. Images of axial, coronal, and sagittal views are shown in each row, with a display window of [-1000, 500] HU. The red dashed line indicates the reference ball centroid and the blue dashed lines indicate the reconstructed ball centroids.
+</b></p>
+</div>
+
+<div align="center">
+<img src="./clinical_results_1.png" width="100%">
+<p><b>Figure 6. Reconstruction of one frame (mid-inhalation) in the clinical scan. Images of axial, coronal and sagittal views are shown in each row, with a display window of [-1000, 500] HU. The tumor in the red box is zoomed in to show more details.
+</b></p>
+</div>
+
+<div align="center">
+<img src="./clinical_results_2.png" width="100%">
+<p><b>Figure 7. Reconstruction results of ten clinical cases by MAGIC. Each row presents five frames of each case from inhalation to exhalation, with a display window of [-1000, 500] HU. The red dashed lines indicate the diaphragm apex at the first frame, so that the diaphragm movement can be clearly illustrated.
+</b></p>
+</div>
