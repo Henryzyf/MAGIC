@@ -11,9 +11,11 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 
 
 <div align="center">
-
 <img src="./simulate_curve_1.png" width="100%">
+<p><b>Figure 1. Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset (Part 1). (a) Regular respiration. (b) Irregular respiration.</b></p>
+</div>
 
-<p><b>Figure 1. Reconstruction results of MAGIC.</b></p>
-
+<div align="center">
+<img src="./simulate_curve_2.png" width="100%">
+<p><b>Figure 1. Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset (Part 2). (a) Regular respiration. (b) Irregular respiration.</b></p>
 </div>
