@@ -34,13 +34,13 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 
 <div align="center">
 <img src="./cirs_curve_1.png" width="100%">
-<p><b>Figure 4 (Part 1). Ball centroid SI (Superior-Inferior) motion curves. (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
+<p><b>Figure 4 (Part 1). Ball centroid SI (Superior-Inferior) motion curves. (a) Regular respiration. (b) Irregular respiration.
 </b></p>
 </div>
 
 <div align="center">
 <img src="./cirs_curve_2.png" width="100%">
-<p><b>Figure 4 (Part 2). Ball centroid SI (Superior-Inferior) motion curves. (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
+<p><b>Figure 4 (Part 2). Ball centroid SI (Superior-Inferior) motion curves. (a) Regular respiration. (b) Irregular respiration.
 </b></p>
 </div>
 
