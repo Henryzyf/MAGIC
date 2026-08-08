@@ -12,7 +12,7 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 
 <div align="center">
 
-<img src="./simulate_curve_1.png" width="80%">
+<img src="./simulate_curve_1.png" width="100%">
 
 <p><b>Figure 1. Reconstruction results of MAGIC.</b></p>
 
