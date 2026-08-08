@@ -19,3 +19,15 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 <img src="./simulate_curve_2.png" width="100%">
 <p><b>Figure 1. Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset (Part 2). (a) Regular respiration. (b) Irregular respiration.</b></p>
 </div>
+
+<div align="center">
+<img src="./simulated_results_1.png" width="100%">
+<p><b>Figure 2. Reconstruction of the 21st frame (end-inhalation) in the simulated regular respiration. Images of axial, coronal and sagittal views are shown in the 1st, 3rd and 5th rows, respectively, with a display window of [-1000, 500] HU. The absolute residuals are shown in the 2nd, 4th and 6th rows, respectively, with a display window of [0, 500] HU. The ground truth is repeated in columns (f) and (l) to facilitate visual comparison.
+</b></p>
+</div>
+
+<div align="center">
+<img src="./simulated_results_2.png" width="100%">
+<p><b>Figure 3. Reconstruction of the 38th frame (mid-exhalation) in the simulated irregular respiration. Images of axial, coronal and sagittal views are shown in the 1st, 3rd and 5th rows, respectively, with a display window of [-1000, 500] HU. The absolute residuals are shown in the 2nd, 4th and 6th rows, respectively, with a display window of [0, 500] HU. The artifact of aDiner is indicated by a red arrow in (e1). The ground truth is repeated in columns (f) and (l) to facilitate visual comparison.
+</b></p>
+</div>
