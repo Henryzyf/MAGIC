@@ -12,12 +12,12 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 
 <div align="center">
 <img src="./simulate_curve_1.png" width="100%">
-<p><b>Figure 1. Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset (Part 1). (a) Regular respiration. (b) Irregular respiration.</b></p>
+<p><b>Figure 1 (Part 1). Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset. (a) Regular respiration. (b) Irregular respiration.</b></p>
 </div>
 
 <div align="center">
 <img src="./simulate_curve_2.png" width="100%">
-<p><b>Figure 1. Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset (Part 2). (a) Regular respiration. (b) Irregular respiration.</b></p>
+<p><b>Figure 1 (Part 2). Reconstructed diaphragm SI (Superior-Inferior) motion curves in the simulated dataset. (a) Regular respiration. (b) Irregular respiration.</b></p>
 </div>
 
 <div align="center">
@@ -34,30 +34,30 @@ Dynamic cone-beam computed tomography (CBCT) provides time-resolved visualizatio
 
 <div align="center">
 <img src="./cirs_curve_1.png" width="100%">
-<p><b>Figure 4. Ball centroid SI (Superior-Inferior) motion curves (Part 1). (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
+<p><b>Figure 4 (Part 1). Ball centroid SI (Superior-Inferior) motion curves. (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
 </b></p>
 </div>
 
 <div align="center">
 <img src="./cirs_curve_2.png" width="100%">
-<p><b>Figure 4. Ball centroid SI (Superior-Inferior) motion curves (Part 2). (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
+<p><b>Figure 4 (Part 2). Ball centroid SI (Superior-Inferior) motion curves. (a) Regular respiration. (b) Irregular respiration. The black arrow indicates the timepoint when the ball reached its lowest position.
 </b></p>
 </div>
 
 <div align="center">
-<img src="./cirs_results.png" width="100%">
+<img src="./cirs_results.PNG" width="100%">
 <p><b>Figure 5. Reconstructed frame in the irregular respiration of the CIRS phantom. Images of axial, coronal, and sagittal views are shown in each row, with a display window of [-1000, 500] HU. The red dashed line indicates the reference ball centroid and the blue dashed lines indicate the reconstructed ball centroids.
 </b></p>
 </div>
 
 <div align="center">
-<img src="./clinical_results_1.png" width="100%">
+<img src="./clinical_results_1.PNG" width="100%">
 <p><b>Figure 6. Reconstruction of one frame (mid-inhalation) in the clinical scan. Images of axial, coronal and sagittal views are shown in each row, with a display window of [-1000, 500] HU. The tumor in the red box is zoomed in to show more details.
 </b></p>
 </div>
 
 <div align="center">
-<img src="./clinical_results_2.png" width="100%">
+<img src="./clinical_results_2.PNG" width="100%">
 <p><b>Figure 7. Reconstruction results of ten clinical cases by MAGIC. Each row presents five frames of each case from inhalation to exhalation, with a display window of [-1000, 500] HU. The red dashed lines indicate the diaphragm apex at the first frame, so that the diaphragm movement can be clearly illustrated.
 </b></p>
 </div>
